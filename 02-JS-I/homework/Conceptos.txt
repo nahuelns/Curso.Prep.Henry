@@ -1,0 +1,15 @@
+Variables: En una variable se puede guardar algun tipo de dato: un numero, un texto (string), un boleano (true,false), etc.
+Las variables se declaran indicandole un nombre y asignandole un valor para luego hacer uso de ellas invocandolas.
+
+Strings: Los string son tipos de datos que no son numeros (por lo cual no se pueden usar para operaciones matematicas).
+Cualquier caractar (letras, numeros, simbolos, etc) puede ser un string siemrpe que se encuantre en ''. Los strings se pueden concatenar formando cadenas de strings.
+
+Funciones (argumentos, return): Las funciones se operaciomes que 'siempre' devuelven algo aunque no se vea. 
+Es decir que una funcion se declara con el fin de que haga algo que nos devuelva un resultado. Los argumentos son parte de la informacion que usan las funciones para para darnos un resultado.
+Al utilizar el return le estamos indicando a la funcion que queresmo que nos devuelva haciendo uso de los argumentos.
+
+Declaraciones if: La declaracion if son condicionales que nos brindan un resultado u otro en funcion de la informacion de entrada.
+Se utilizan para analizar diferentes condiciones.
+
+Valores booleanos (true, false): Estos valores expresan un resultado en funcion de un hecho o condicion expresada, 
+solo tienen dos opciones TRUE o FALSE. Nunca dan como resultado un numero.
