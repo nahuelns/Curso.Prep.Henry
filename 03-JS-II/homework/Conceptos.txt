@@ -1,0 +1,14 @@
+Bucle for: Es una exprecion utilizada para realizar una misma operacion una n cantidad de veces, teniendo en cuenta una condicion
+la cual indicara cuando debe parar de repatirse la operacion.
+
+Operador logico && (y, and): Este operador se utiliza para evaluar dos expresiones que en el caso de ambas ser verdaderas (true)
+se ejecuta el codigo, si cualquiera de las dos es false el codigo no se ejecutara.
+
+Operador logico || (o): Este operador se utiliza para comparar expresiones y en el caso de que cualquiera de ellas sea true
+se ejecuta el codigo.
+
+Operadort logico ! (Not): Este operador convertira cualquier expresion en su opuesto. Se puede utilizar las veces que se quiera
+al utilizarlo dos veces ej: !! la expresion queda con si condicioen original nuevamente y por lo general tbn se aplica por
+fuera del parentesis de una expresion.
+
+TODOS ESTOS OPERADORES TRABAJAN SOBRE BOOLEANOS.
