@@ -1,0 +1,3 @@
+Arrays: Los array o arreglos son objetos similares a una lista dentro de los cuales, una vez declarados se pueden almacenar
+cualquier tipo de dato (nuemros, str, booleanos, etc). Los arrays mos permiten organizar datos y tbn poseen la posibilidad de agregar
+o eliminar elementos de los mismos.
