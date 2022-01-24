@@ -1,0 +1,21 @@
+Objetos: Los objetos son elementos que pueden contener mucha informacion acerca de una misma cosa u elemento. 
+Los objetos dentro puden contener cualquier tipo de informacion e inclusive objetos dentro de objetos. De tal manera 
+se puede acceder a cualquiera de los elementos del objeto de forma de hacer utilizarla para diferentes fines. Tambien los contenidos 
+de los objetos se puden modificar (actulizar,eliminar, etc).
+
+Propiedades:
+Las propiedades se incluyen dentro de los objetos (ej: una objeto llamado ficha personal puede incluir datos como: Nombre, apellido
+,edad, etc). Laspropiedades tambien se puden modificar, agregar nuevas, eliminarlas.
+
+Métodos:
+Se llama metodos a las funciones guardadas dentro de los objetos y se comprotan de la misma forma que una funcion convencional.
+
+Bucle for…in:
+El acceso a los objetos se hace mediante las key y su correspondiente value, a difernecia de las los arrays en donde utilizamos el bucle for
+en los objetos podemos utilizar el bucle for...in para recorrer objetos.
+
+
+Notación de puntos vs notación de corchetes:
+La notacion de puntos se aplica llamando al nombre del objeto punto el nombre de la clave.
+En la notaction con corchetes se puede llamar al objeto indicando la clave entre  [] utilizando comillas.
+Por lo general los [] se utilizan para llamar a variables del objeto.
