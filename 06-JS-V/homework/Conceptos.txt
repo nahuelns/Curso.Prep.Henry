@@ -1,0 +1,6 @@
+prototype: Todo objeto en javascript tiene un proto de él mismo.
+Los prototipos son mecanismos por el cual los objetos en heredan características entre sí. Se pueden formar cadenas de prototypos (Prototype Chain),
+hasta llegar al prototype mas basico de javascript que el es object.
+
+Constructors (de Clases): Es un método especial para crear un objeto a partir de una clase y luego poder utilizar ese constructor las veces que sea necesario. Se puede interpretar como un objeto genereico.
+ 
