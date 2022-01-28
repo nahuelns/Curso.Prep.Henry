@@ -1,0 +1,2 @@
+Callback: Los callbacks principalmente nos permiten pasar una funcion como argumento de otra funcion. 
+Por lo tanto se puden usar una infinidad de metodos dentro de los callbacks.
